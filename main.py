@@ -1,5 +1,5 @@
 from turtle import Turtle, Screen
-
+#the program is written just for playing around with and exploring the Turtle GUI.
 jack = Turtle()
 jack.shape("turtle")
 jack.width(10)
